@@ -14,11 +14,12 @@
 * run the migration `php artisan migrate`
 * run seeder `php artisan db:seed`
 * run the server `php artisan serve`
-* and now you can access from browser `http://localhost:8000`
+* and now you can perform login using postman by accessing `[POST] localhost:8000/api/v1/login` and see dummy account
 
 ## Docs
 
 * please check the api routing inside `routes/api.php`
+* dummy account, please check `database/seeds/DatabaseSeeder.php`
 
 ## Tasks
 
