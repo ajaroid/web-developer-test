@@ -4,7 +4,7 @@
 
 * PHP >= 7.2
 * Composer
-* PostgreSQL
+* PostgreSQL 10
 
 ## How to run (local)
 
